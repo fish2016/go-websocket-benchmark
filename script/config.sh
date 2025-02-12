@@ -22,4 +22,5 @@ frameworks=(
     "nbio_std"
     "nettyws"
     "nhooyr"
+    "gnet_gobwas"
 )
