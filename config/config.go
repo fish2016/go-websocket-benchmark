@@ -34,6 +34,7 @@ const (
 	Quickws            = "quickws"
 	Greatws            = "greatws"
 	GreatwsEvent       = "greatws_event"
+	GnetGobwas         = "gnet_gobwas"
 )
 
 var Ports = map[string]string{
@@ -53,6 +54,7 @@ var Ports = map[string]string{
 	Quickws:            "23001:23050",
 	Greatws:            "24001:24050",
 	GreatwsEvent:       "25001:25050",
+	GnetGobwas:         "9080:9080",
 }
 
 var FrameworkList = []string{
